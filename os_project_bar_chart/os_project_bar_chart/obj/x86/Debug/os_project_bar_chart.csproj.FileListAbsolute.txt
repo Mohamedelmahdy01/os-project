@@ -1,0 +1,8 @@
+D:\CIS\2\1st term\os\s\os_project_bar_chart\os_project_bar_chart\obj\x86\Debug\os_project_bar_chart.Form1.resources
+D:\CIS\2\1st term\os\s\os_project_bar_chart\os_project_bar_chart\obj\x86\Debug\os_project_bar_chart.Properties.Resources.resources
+D:\CIS\2\1st term\os\s\os_project_bar_chart\os_project_bar_chart\obj\x86\Debug\os_project_bar_chart.csproj.GenerateResource.Cache
+D:\CIS\2\1st term\os\s\os_project_bar_chart\os_project_bar_chart\bin\Debug\os_project_bar_chart.exe
+D:\CIS\2\1st term\os\s\os_project_bar_chart\os_project_bar_chart\bin\Debug\os_project_bar_chart.pdb
+D:\CIS\2\1st term\os\s\os_project_bar_chart\os_project_bar_chart\obj\x86\Debug\os_project_bar_chart.exe
+D:\CIS\2\1st term\os\s\os_project_bar_chart\os_project_bar_chart\obj\x86\Debug\os_project_bar_chart.pdb
+D:\CIS\2\1st term\os\s\os_project_bar_chart\os_project_bar_chart\obj\x86\Debug\os_project_bar_chart.csprojResolveAssemblyReference.cache
